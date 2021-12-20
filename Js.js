@@ -5,8 +5,8 @@ function fnc(){
     console.log(a3.checked);
     console.log(a4.checked);
     if (a2.checked){
-        alert("Right answer");
+        alert("Right ");
     } else {
-        alert("Wrong answer");
+        alert("Try again");
     }
 }
